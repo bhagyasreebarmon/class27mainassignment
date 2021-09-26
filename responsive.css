@@ -1,0 +1,797 @@
+.body {
+    overflow-x: hidden;
+}
+
+@media (max-width:1885px) {
+    .text-inner {
+        width: 101%;
+    }
+}
+
+@media (max-width:1871px) {
+    .academy-name {
+        top: 103px;
+    }
+}
+
+@media (max-width:1722px) {
+    .text {
+        width: 47%;
+    }
+}
+
+@media (max-width:1436px) {
+    .image {
+        width: 90%;
+        margin-left: 70px;
+        height: 446px;
+    }
+    .text {
+        width: 90%;
+        margin-top: 46px;
+        margin-left: 68px;
+    }
+}
+
+@media (max-width:1399px) {
+    .logo {
+        width: 22%;
+    }
+    .menu ul {
+        padding: 4px 45px 0 0;
+    }
+    .academy-name h1 {
+        font-size: 57px;
+    }
+    .academy-name p {
+        font-size: 22px;
+    }
+}
+
+@media (max-width:1280px) {
+    .skill {
+        width: 46%;
+        margin-right: 21px;
+    }
+    .skill1 {
+        margin-left: 49px;
+    }
+    .skill.skill2 {
+        margin-left: 49px;
+    }
+}
+
+@media (max-width:1206px) {
+    .image {
+        margin-left: 64px;
+    }
+}
+
+@media (max-width:1138px) {
+    .service-content h2 {
+        margin-bottom: 10px;
+    }
+    .service-content p {
+        width: 790px;
+        margin: auto;
+    }
+}
+
+@media (max-width:1138px) {
+    .skill {
+        margin-right: -2px;
+    }
+    .skill1 {
+        margin-left: 41px;
+    }
+}
+
+@media (max-width:1061px) {
+    .logo {
+        width: 25%;
+    }
+    .menu ul {
+        padding: 4px 50px 0 0;
+    }
+}
+
+@media (max-width:1061px) {
+    .image {
+        margin-left: 55px;
+    }
+}
+
+@media (max-width:1024px) {
+    .contact-section {
+        margin-top: 46%;
+    }
+}
+
+@media (max-width:950px) {
+    .image {
+        margin-left: 50px;
+    }
+}
+
+@media (max-width:900px) {
+    .logo {
+        width: 100%;
+        margin-bottom: 13px;
+    }
+    .menu {
+        width: 100%;
+    }
+    .menu ul {
+        padding: 0;
+        text-align: center;
+    }
+    .menu ul li {
+        padding: 0px 13px;
+    }
+}
+
+@media (max-width:885px) {
+    .menu ul {
+        padding: 0;
+        margin-top: 10px;
+        text-align: center;
+    }
+}
+
+@media (max-width:833px) {
+    .image {
+        margin-left: 45px;
+    }
+    .text {
+        margin-left: 49px;
+    }
+}
+
+@media (max-width:831px) {
+    .header {
+        width: 117%;
+    }
+    .banner {
+        width: 123%;
+    }
+    .service-content {
+        width: 123%;
+    }
+    .service-content p {
+        width: 929px;
+        font-size: 20px;
+    }
+    .service-content h2 {
+        font-size: 31px;
+    }
+    .service-section {
+        width: 122%;
+    }
+    .skill span {
+        font-size: 45px;
+    }
+    .skill h3 {
+        font-size: 23px;
+    }
+    .skill p {
+        font-size: 22px;
+        width: 267px;
+    }
+    .hrtag {
+        width: 122%;
+    }
+    .about-content {
+        width: 122%;
+    }
+    .about-content h2 {
+        font-size: 31px;
+    }
+    .about-content p {
+        font-size: 20px;
+    }
+    .image {
+        margin-left: 47px;
+        width: 112%;
+    }
+    .text {
+        margin-left: 71px;
+        width: 105%;
+    }
+    .text-inner {
+        margin-bottom: 27px;
+        line-height: 22px;
+    }
+    .text-inner h4 {
+        font-size: 25px;
+        margin-bottom: 13px;
+    }
+    .text-inner p {
+        font-size: 17px;
+    }
+    .contact-section {
+        margin-top: 62%;
+        width: 123%;
+        padding-bottom: 68px;
+    }
+    .contact-section h2 {
+        font-size: 32px;
+    }
+    .contact-section p {
+        font-size: 18px;
+        padding: 0 24px;
+        line-height: 27px;
+    }
+    .location {
+        width: 27%;
+    }
+    .lc1 {
+        margin-left: 110px;
+    }
+    .location span {
+        font-size: 29px;
+    }
+    .location ul li {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    .footer {
+        width: 123%;
+    }
+    .link-section a {
+        margin-right: 24px;
+    }
+    .link-section a i {
+        font-size: 19px;
+    }
+    .footer-bottom {
+        height: 59px;
+        line-height: 37px;
+        width: 123%;
+    }
+    .footer-bottom p {
+        font-size: 18px;
+    }
+}
+
+
+/* 806 */
+
+@media (max-width:806px) {
+    .header {
+        width: 123%;
+        padding: 25px 0;
+    }
+}
+
+@media (max-width:806px) {
+    .service-content p {
+        width: 891px;
+        font-size: 21px;
+        margin: auto;
+    }
+}
+
+@media (max-width:625px) {
+    .header {
+        width: 146%;
+    }
+    .menu ul li {
+        display: block;
+        margin: 13px 0;
+    }
+    .menu ul li a {
+        font-size: 20px;
+    }
+    .banner {
+        width: 156%;
+    }
+}
+
+@media (max-width:576px) {
+    .header {
+        width: 159%;
+    }
+    .logo {
+        margin-top: 10px;
+    }
+    .service-content {
+        width: 159%;
+    }
+    .service-content h2 {
+        margin-bottom: 13px;
+        font-size: 36px;
+    }
+    .service-content p {
+        font-size: 17px;
+    }
+    .service-section {
+        width: 159%;
+        margin: auto;
+    }
+    .skill {
+        width: 100%;
+    }
+    .skill span {
+        line-height: 50px;
+    }
+    .skill h3 {
+        font-size: 35px;
+    }
+    .skill p {
+        font-size: 24px;
+        width: 291px;
+        margin: auto;
+    }
+    .skill.skill3 {
+        margin-left: 44px;
+    }
+    .hrtag {
+        border: 1px solid #22C3A3;
+        width: 159%;
+    }
+    .about-content {
+        width: 159%;
+    }
+    .about-content p {
+        font-size: 18px;
+        margin-left: 48px;
+        padding: 10px 23px;
+    }
+    .about-content h2 {
+        font-size: 35px;
+    }
+    .image {
+        width: 115%;
+        margin-left: 143px;
+    }
+    .text {
+        width: 100%;
+        margin-top: 50px;
+        margin-left: 176px;
+    }
+    .text-inner h4 {
+        font-size: 28px;
+        margin-bottom: 14px;
+    }
+    .text-inner p {
+        font-size: 20px;
+    }
+    .contact-section {
+        margin-top: 118%;
+        width: 159%;
+        height: 100%;
+    }
+    .contact-section h2 {
+        font-size: 35px;
+    }
+    .contact-section p {
+        margin-top: 16px;
+        font-size: 17px;
+        padding: 0 100px;
+    }
+    .location {
+        width: 100%;
+    }
+    .lc1 {
+        margin-left: 0;
+    }
+    .location span {
+        font-size: 31px;
+    }
+    .location ul li {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .lc {
+        margin-left: 0;
+    }
+    .footer {
+        height: 70px;
+        line-height: 39px;
+        width: 159%;
+    }
+    .link-section a {
+        margin-right: 32px;
+    }
+    .link-section a i {
+        font-size: 25px;
+    }
+    .footer-bottom {
+        height: 70px;
+        line-height: 42px;
+        width: 159%;
+    }
+    .footer-bottom p {
+        margin-top: 14px;
+        font-size: 21px;
+    }
+}
+
+@media (max-width:425px) {
+    .header {
+        width: 209%;
+    }
+    .logo {
+        margin-top: 20px;
+    }
+    .logo h2 {
+        font-size: 41px;
+    }
+    .menu ul li {
+        display: block;
+        margin: 27px 0;
+    }
+    .menu ul li a {
+        font-size: 29px;
+    }
+    .banner {
+        width: 209%;
+    }
+    .academy-name {
+        top: 94px;
+    }
+    .academy-name h1 {
+        font-size: 64px;
+    }
+    .academy-name p {
+        font-size: 28px;
+    }
+    .academy-name button {
+        padding: 15px 34px;
+    }
+    .academy-name button span {
+        font-size: 22px;
+    }
+    .service-content {
+        width: 209%;
+    }
+    .service-content h2 {
+        margin-bottom: 18px;
+        font-size: 47px;
+    }
+    .service-content p {
+        font-size: 28px;
+        margin-bottom: 43px;
+    }
+    .service-section {
+        width: 197%;
+        /* margin: auto; */
+    }
+    .skill span {
+        font-size: 69px;
+    }
+    .skill h3 {
+        font-size: 47px;
+    }
+    .skill p {
+        font-size: 35px;
+        width: 317px;
+    }
+    .hrtag {
+        width: 209%;
+    }
+    .about-content {
+        width: 209%;
+    }
+    .about-content h2 {
+        font-size: 47px;
+    }
+    .about-content p {
+        font-size: 28px;
+    }
+    .image {
+        width: 164%;
+        margin-left: 103px;
+    }
+    .text {
+        width: 164%;
+        margin-left: 105px;
+    }
+    .text-inner {
+        margin-bottom: 38px;
+        line-height: 28px;
+    }
+    .text-inner h4 {
+        font-size: 38px;
+        margin-bottom: 20px;
+    }
+    .text-inner p {
+        font-size: 32px;
+    }
+    .contact-section {
+        width: 209%;
+        margin-top: 244%;
+        padding-bottom: 82px;
+        padding-top: 102px;
+    }
+    .contact-section h2 {
+        font-size: 47px;
+    }
+    .contact-section p {
+        font-size: 31px;
+    }
+    .location span {
+        font-size: 51px;
+        margin-top: 10px;
+    }
+    .location ul li {
+        font-size: 32px;
+        line-height: 38px;
+        margin-top: 10px;
+    }
+    .footer {
+        height: 90px;
+        line-height: 63px;
+        width: 209%;
+    }
+    .link-section a {
+        margin-right: 39px;
+    }
+    .link-section a i {
+        font-size: 37px;
+    }
+    .footer-bottom {
+        height: 90px;
+        line-height: 65px;
+        width: 209%;
+    }
+    .footer-bottom p {
+        font-size: 29px;
+    }
+}
+
+@media (max-width:425px) {
+    .header {
+        width: 248%;
+    }
+    .logo {
+        margin-top: 20px;
+    }
+    .logo h2 {
+        font-size: 46px;
+    }
+    .menu ul li {
+        display: block;
+        margin: 36px 0;
+    }
+    .menu ul li a {
+        font-size: 34px;
+    }
+    .banner {
+        width: 248%;
+    }
+    .academy-name {
+        top: 94px;
+    }
+    .academy-name h1 {
+        font-size: 64px;
+    }
+    .academy-name p {
+        font-size: 28px;
+    }
+    .academy-name button {
+        padding: 15px 34px;
+    }
+    .academy-name button span {
+        font-size: 22px;
+    }
+    .service-content {
+        width: 248%;
+    }
+    .service-content h2 {
+        margin-bottom: 18px;
+        font-size: 47px;
+    }
+    .service-content p {
+        font-size: 34px;
+    }
+    .service-section {
+        width: 235%;
+    }
+    .skill span {
+        font-size: 69px;
+    }
+    .skill h3 {
+        font-size: 47px;
+    }
+    .skill p {
+        font-size: 35px;
+        width: 317px;
+    }
+    .hrtag {
+        width: 248%;
+        margin-top: 43px;
+    }
+    .about-content {
+        width: 248%;
+        margin: 100px 0;
+    }
+    .about-content h2 {
+        font-size: 47px;
+    }
+    .about-content p {
+        font-size: 33px;
+    }
+    .image {
+        width: 229%;
+        margin-left: 41px;
+        height: 154%;
+    }
+    .text {
+        width: 206%;
+        margin-left: 75px;
+        margin-top: 149px;
+        text-align: center;
+    }
+    .text-inner {
+        margin-bottom: 38px;
+        line-height: 43px;
+    }
+    .text-inner h4 {
+        font-size: 53px;
+        margin-bottom: 46px;
+    }
+    .text-inner p {
+        font-size: 40px;
+    }
+    .contact-section {
+        width: 248%;
+        margin-top: 413%;
+    }
+    .contact-section h2 {
+        font-size: 47px;
+    }
+    .contact-section p {
+        font-size: 34px;
+        line-height: 39px;
+        margin: 24px 0;
+    }
+    .location span {
+        font-size: 56px;
+        margin-top: 26px;
+    }
+    .location ul li {
+        font-size: 36px;
+    }
+    .footer {
+        height: 102px;
+        line-height: 82px;
+        width: 248%;
+    }
+    .footer-bottom {
+        height: 100px;
+        line-height: 72px;
+        width: 248%;
+    }
+    .footer-bottom p {
+        font-size: 32px;
+    }
+}
+
+@media (max-width:375px) {
+    .contact-section {
+        margin-top: 509%;
+    }
+}
+
+@media (max-width:320px) {
+    .header {
+        width: 278%;
+    }
+    .banner {
+        width: 278%;
+    }
+    .academy-name {
+        top: 159px;
+    }
+    .academy-name h1 {
+        font-size: 70px;
+    }
+    .academy-name p {
+        font-size: 38px;
+    }
+    .academy-name button {
+        padding: 19px 41px;
+    }
+    .academy-name button span {
+        font-size: 26px;
+    }
+    .service-section {
+        width: 257%;
+    }
+    .service-content {
+        width: 278%;
+    }
+    .service-content h2 {
+        margin-bottom: 20px;
+        font-size: 52px;
+    }
+    .service-content p {
+        font-size: 40px;
+    }
+    .skill span {
+        font-size: 81px;
+        margin-top: 28px;
+    }
+    .skill h3 {
+        font-size: 51px;
+    }
+    .skill p {
+        font-size: 41px;
+        width: 367px;
+    }
+    .hrtag {
+        width: 277%;
+    }
+    .about-content {
+        width: 278%;
+        margin-left: -10px;
+    }
+    .about-content h2 {
+        font-size: 52px;
+    }
+    .about-content p {
+        font-size: 40px;
+    }
+    .image {
+        width: 252%;
+    }
+    .text {
+        width: 229%;
+    }
+    .text-inner {
+        margin-bottom: 69px;
+        line-height: 47px;
+    }
+    .text-inner h4 {
+        font-size: 53px;
+        margin-bottom: 26px;
+    }
+    .text-inner p {
+        font-size: 41px;
+    }
+    .contact-section {
+        margin-top: 632%;
+        width: 278%;
+    }
+    .contact-section {
+        margin-top: 632%;
+        padding-top: 146px;
+    }
+    .contact-section h2 {
+        font-size: 52px;
+    }
+    .contact-section p {
+        font-size: 40px;
+        line-height: 43px;
+    }
+    .location span {
+        font-size: 61px;
+        margin-top: 29px;
+    }
+    .location ul li {
+        font-size: 40px;
+    }
+    .footer {
+        height: 113px;
+        line-height: 93px;
+        width: 278%;
+    }
+    .link-section {
+        margin-left: 38px;
+    }
+    .link-section a {
+        margin-right: 44px;
+    }
+    .link-section a i {
+        font-size: 43px;
+    }
+    .footer-bottom {
+        height: 110px;
+        line-height: 84px;
+        width: 278%;
+    }
+    .footer-bottom p {
+        font-size: 36px;
+    }
+}
